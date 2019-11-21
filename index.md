@@ -1,2 +1,3 @@
-
-/jeremyschultz/Resume - Paulo Murillo.html
+---
+permalink: /Resume - Paulo Murillo.html
+---
