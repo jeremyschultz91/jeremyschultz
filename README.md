@@ -1,2 +1,0 @@
-# jeremyschultz
-Resume - Jeremy Schultz
